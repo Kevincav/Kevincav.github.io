@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Coderz Paradise - Algorithm Tutorials</title>
+	<!-- TemplateEndEditable -->
+	<link rel="stylesheet" href="../css/main.css" />
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+</head>
+<body>
+	<div id="big_wrapper">
+		<header id="top_header">
+			<h1>Coderz Paradise</h1>
+		</header>
+		<nav id="top_links">
+			<ul>
+				<li><a href="../index.html">Home</a></li>
+				<li><a href="../about.html">About Me</a></li>
+				<li><a href="../Arrays/arrays.html">Arrays
+					<ul>
+						<li><a href="../Arrays/bsearch.html">Binary Search</a></li>
+						<li><a href="../Arrays/heaps.html">Min/Max Heaps</a></li>
+					</ul>
+				</a></li>
+				<li><a href="../Lists/lists.html">Lists
+					<ul>
+						<li><a href="../Lists/slists.html">Singly-Linked Linked List</a></li>
+						<li><a href="../Lists/dlists.html">Doubly-Linked Linked List</a></li>
+						<li><a href="../Lists/cslists.html">Circular Singly-Linked Linked List</a></li>
+						<li><a href="../Lists/dslists.html">Circular Doubly-Linked Linked List</a></li>
+					</ul>
+				</a></li>
+				<li><a href="../Trees/trees.html">Trees
+					<ul>
+						<li><a href="../Trees/bst.html">Binary Search Tree</a></li>
+						<li><a href="../Trees/heaps.html">Heaps</a></li>
+						<li><a href="../Trees/RBT.html">Red Black Tree</a></li>
+						<li><a href="../Trees/AVL.html">AVL Tree</a></li>
+						<li><a href="../Trees/trie.html">Tries</a></li>
+					</ul>
+				</a></li>
+				<li><a href="../Graphs/graphs.html">Graphs
+					<ul>
+						<li><a href="../Graphs/basic.html">Basic Graph Theory</a></li>
+						<li><a href="../Graphs/BFS.html">Breadth First Search</a></li>
+						<li><a href="../Graphs/DFS.html">Depth First Search</a></li>
+						<li><a href="../Graphs/BF.html">Bellman Ford</a></li>
+						<li><a href="../Graphs/Dijkstra.html">Dijkstra's Algorithm</a></li>
+						<li><a href="../Graphs/Astar.html">A* Shortest Path</a></li>
+						<li><a href="../Graphs/disjoint.html">Disjoint Sets</a></li>
+						<li><a href="../Graphs/kruskal.html">Kruskal's Algorithm</a></li>
+						<li><a href="../Graphs/prims.html">Prim's Algorithm</a></li>
+					</ul>
+				</a></li>
+				<li><a href="../Sorts/sorts.html">Sorting
+					<ul>
+						<li><a href="../Sorts/merge.html">Merge Sort</a></li>
+						<li><a href="../Sorts/heap.html">Heap Sort</a></li>
+						<li><a href="../Sorts/qsort.html">Quick Sort</a></li>
+						<li><a href="../Sorts/counting.html">Counting Sort</a></li>
+						<li><a href="../Sorts/bucket.html">Bucket Sort</a></li>
+						<li><a href="../Sorts/radix.html">Radix Sort</a></li>
+						<li><a href="../Sorts/network.html">Sorting Networks</a></li>
+					</ul>
+				</a></li>
+				<li><a href="../Parallel/parallel.html">Parallel Computing
+					<ul>
+						<li><a href="../Parallel/cache.html">Memory Management</a></li>
+						<li><a href="../Parallel/SIMD.html">SIMD</a></li>
+						<li><a href="../Parallel/shm.html">Shared Memory</a></li>
+						<li><a href="../Parallel/proc.html">Processes</a></li>
+						<li><a href="../Parallel/pthread.html">Pthreads</a></li>
+						<li><a href="../Parallel/bthread.html">Boost Threads</a></li>
+						<li><a href="../Parallel/OMP.html">OpenMP</a></li>
+						<li><a href="../Parallel/MPI.html">OpenMPI</a></li>
+						<li><a href="../Parallel/CUDA.html">CUDA</a></li>
+						<li><a href="../Parallel/OCL.html">OpenCL</a></li>
+					</ul>
+				</a></li>
+				<li><a href="../contact.html">Contact Me</a></li>
+			</ul>
+		</nav>
+		<!-- TemplateBeginEditable name="MainEditRegion" -->
+		<div id="inside_div">
+		  <section id="mid_left">
+		    <h1>Topic</h1>
+		    <div id="introduction">
+		      <h3>Introduction:</h3>
+		      <br>
+		      <!-- Intro Here. -->
+	        </div>
+		    <div id="conclusion"> <br>
+		      <h3>Conclusion:</h3>
+		      <br>
+		      <!-- Conclusion Here. -->
+	        </div>
+	      </section>
+		  <aside id="mid_right"> <a href="#introduction">
+		    <h3>Introduction</h3>
+		    </a> <a href="#conclusion">
+		      <h3>Conclusion</h3>
+		      </a> </aside>
+	    </div>
+		<!-- TemplateEndEditable -->
+		<footer id="bottom_footer">
+			Copyright Kevin Melkowski 2013.
+		</footer>
+	</div>
+</body>
+</html>
